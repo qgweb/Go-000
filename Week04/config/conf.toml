@@ -1,0 +1,11 @@
+[common]
+addr=":8081"
+
+[db]
+host="127.0.0.1"
+port="3306"
+user="zb"
+passwd="xxxx"
+name="db"
+active=10
+idle=5
